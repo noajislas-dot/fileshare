@@ -1,0 +1,6 @@
+{
+  "name": "FileShare",
+  "description": "FileShare is a fast, safe, and modern file sharing platform inspired by Google Play and Material Design 3. Upload and share files of any extension with built-in antivirus protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
